@@ -1,6 +1,9 @@
-﻿# Viktoriya Marinova — Software Developer Portfolio
+﻿#Viktoriya Marinova — Software Developer Portfolio
+ 
+A personal portfolio website that presents my technical skills, education, internships, certificates, and aesthetic design work—all in a clean, responsive, and interactive format.
 
-A portfolio website showcasing my professional experience, skills, certificates, and projects — combining technical expertise in software development with creativity from design.
+## 🔍 Overview
+This website is built with simplicity and clarity in mind. It’s a static site using HTML, CSS, and vanilla JavaScript—no heavy frameworks—so it’s fast, lightweight, and easy to maintain.
 
 ## ✨ Features
 - **Modern Layout**: clean sections for About, Education, Internships, Skills, Certificates, and Contact
@@ -40,4 +43,5 @@ A portfolio website showcasing my professional experience, skills, certificates,
 - **Visual Consistency**: unified color palette and typography system
 - **User Experience**: clear navigation, smooth animations, and simple interactions
 - **Performance**: lightweight assets and responsive grids for faster load times
+
 
